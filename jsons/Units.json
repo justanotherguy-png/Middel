@@ -6,7 +6,7 @@
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 50,
-		"uniques": ["May capture killed [All] units","[+25]% Strength decreasing with distance from the capital","[+20]% to Flank Attack bonuses"]
+		"uniques": ["May capture killed [All] units","[+25]% Strength decreasing with distance from the capital","[+50]% to Flank Attack bonuses"]
 		"cost": 140,
 	}
 	{
@@ -16,7 +16,7 @@
 		"replaces": "Pikeman",
 		"movement": 2,
 		"strength": 35,
-		"uniques": ["May capture killed [All] units","[150%] Strength <vs. [Mounted] units>","[+25]% Strength decreasing with distance from the capital","[+20]% to Flank Attack bonuses"]
+		"uniques": ["May capture killed [All] units","[150%] Strength <vs. [Mounted] units>","[+25]% Strength decreasing with distance from the capital","[+50]% to Flank Attack bonuses"]
 		"cost": 110,
 	}
 	{
@@ -29,6 +29,7 @@
 		"range": 2
 		"strength": 30,
 		"cost": 130,
+  "uniques": ["[+50]% to Flank Attack bonuses","[+25]% Strength decreasing with distance from the capital"]
 	}
 	{
 		"name": "Harriers",
@@ -39,8 +40,8 @@
 		"rangedStrength": 18
 		"range": 3
 		"strength": 10,
-		"uniques": ["[1] additional attacks per turn"]
 		"cost": 105,
+ "uniques": ["[+50]% to Flank Attack bonuses","[+25]% Strength decreasing with distance from the capital","[1] additional attacks per turn"]
 	}
 	{
 		"name": "Crossbow Archers",
@@ -52,6 +53,7 @@
 		"range": 2
 		"strength": 15,
 		"cost": 120,
+"uniques": ["[+50]% to Flank Attack bonuses","[+25]% Strength decreasing with distance from the capital"]
 	}
 	{
 		"name": "Handgunners",
@@ -62,7 +64,7 @@
 		"rangedStrength": 51
 		"range": 3
 		"strength": 24,
-		"uniques": ["Must set up to ranged attack"]
+		"uniques": ["Must set up to ranged attack","[+50]% to Flank Attack bonuses","[+25]% Strength decreasing with distance from the capital"]
 		"cost": 155,
 	}
 	{
@@ -74,7 +76,7 @@
 		"rangedStrength": 60
 		"range": 6
 		"strength": 15,
-		"uniques": ["Must set up to ranged attack","[200%] Strength vs. [City] units"]
+		"uniques": ["Must set up to ranged attack","[200%] Strength vs. [City] units","[+50]% to Flank Attack bonuses","[+25]% Strength decreasing with distance from the capital"]
 		"cost": 200,
 	}
 	{
@@ -87,6 +89,7 @@
 		"range": 2
 		"rangedStrength": 41
 		"cost": 156,
+"uniques": ["[+50]% to Flank Attack bonuses","[+25]% Strength decreasing with distance from the capital"]
 	}
 	{
 		"name": "Noblemen",
