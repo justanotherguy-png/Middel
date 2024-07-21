@@ -139,7 +139,7 @@
 		"replaces": "Lancer",
 		"movement": 5,
 		"strength": 55,
-		"uniques": ["[150%] Strength vs. [Sword] units","[150%] Strength vs. [Archery] units","[150%] Strength vs. [Ranged Gunpowder] units"]
+		"uniques": ["[150%] Strength vs. [Archery] units","[150%] Strength vs. [Ranged Gunpowder] units"]
 		"cost": 150,
 	}
 	{
@@ -191,7 +191,7 @@
 		"replaces": "Knight",
 		"movement": 5,
 		"strength": 65,
-		"uniques": ["[150%] Strength vs. [Sword] units","[150%] Strength vs. [Archery] units","[150%] Strength vs. [Ranged Gunpowder] units"]
+		"uniques": ["[150%] Strength vs. [Archery] units","[150%] Strength vs. [Ranged Gunpowder] units"]
 		"cost": 165,
 	}
 	{
@@ -210,7 +210,7 @@
 		"replaces": "Pikeman",
 		"movement": 2,
 		"strength": 25,
-		"uniques": ["May capture killed [All] units","Founds a new city"]
+		"uniques": ["May capture killed [All] units"]
 		"cost": 20,
 	}
 	{
