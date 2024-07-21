@@ -235,6 +235,16 @@
 		"uniques": ["Must set up to ranged attack","[200%] Strength vs. [City] units"]
 		"cost": 155,
 	}
+        {
+                "name": "Merchant Fleet",
+                "unitType": "Civilian Water",
+                "movement": 4,
+                "range": 2,
+                "rangedStrength": 25
+                "strength": 10,
+                "cost": 120,
+                "uniques": ["Gain [15]-[30] [Gold] <by consuming this unit> <in [in non-enemy foreign cities] cities>"],
+        }
 	
 
 		]
