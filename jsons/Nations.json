@@ -3,7 +3,7 @@
 		"name": "Chiefdom",
 		"leaderName": "Chief",
 		"adjective": ["peoples"],
-		"startBias": ["Desert"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
