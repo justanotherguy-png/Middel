@@ -6,7 +6,7 @@
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 50,
-		"uniques": ["May capture killed [All] units"]
+		"uniques": ["May capture killed [All] units","[+25]% Strength decreasing with distance from the capital","[+20]% to Flank Attack bonuses"]
 		"cost": 140,
 	}
 	{
@@ -16,7 +16,7 @@
 		"replaces": "Pikeman",
 		"movement": 2,
 		"strength": 35,
-		"uniques": ["May capture killed [All] units","[150%] Strength vs. [Mounted] units"]
+		"uniques": ["May capture killed [All] units","[150%] Strength <vs. [Mounted] units>","[+25]% Strength decreasing with distance from the capital","[+20]% to Flank Attack bonuses"]
 		"cost": 110,
 	}
 	{
@@ -139,7 +139,7 @@
 		"replaces": "Lancer",
 		"movement": 5,
 		"strength": 55,
-		"uniques": ["[150%] Strength vs. [Archery] units","[150%] Strength vs. [Ranged Gunpowder] units"]
+		"uniques": ["[150%] Strength <vs. [Archery] units>","[150%] Strength <vs. [Ranged Gunpowder] units>"]
 		"cost": 150,
 	}
 	{
