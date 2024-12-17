@@ -6,16 +6,17 @@
 		"replaces": "Pikeman",
 		"movement": 2,
 		"strength": 18,
-		"cost": 120,
+		"cost": 100,
 	}
 	{
 		"name": "Shooters",
-		"unitType": "Sword",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Mountin",
 		"replaces": "Musketman",
 		"movement": 2,
 		"strength": 15,
-		"rangedStrength": 
-		"cost": 120,
+		"rangedStrength": 25,
+		"cost": 140,
 	}
+
 ]
